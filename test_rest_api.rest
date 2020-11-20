@@ -1,0 +1,13 @@
+GET https://api.themoviedb.org/3/movie/550?api_key=129d744e1344fce41963084add6a10a3
+
+###
+
+GET https://api.themoviedb.org/3/discover/tv?api_key=129d744e1344fce41963084add6a10a3&with_networks=213
+
+###
+
+GET https://api.themoviedb.org/3/trending/all/week?api_key=129d744e1344fce41963084add6a10a3&language=en-US
+
+###
+
+GET https://api.themoviedb.org/3

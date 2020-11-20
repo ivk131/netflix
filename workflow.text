@@ -1,0 +1,11 @@
+STEPS:
+---------
+1. get TMDB api key //129d744e1344fce41963084add6a10a3
+2. setup firebase hosting
+3. get all the movies
+4. build the banner
+5. build the Navbar
+6. add Trailers popups
+
+
+// examp api --> https://api.themoviedb.org/3/movie/550?api_key=129d744e1344fce41963084add6a10a3
